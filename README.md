@@ -1,1 +1,1 @@
-# OpenGL
+# OpenGL Solar system project
